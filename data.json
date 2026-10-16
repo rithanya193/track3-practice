@@ -1,0 +1,22 @@
+
+{
+  "college": "Practice College",
+  "participant_code": "PRACTICE001",
+  "labs": [
+    {
+      "name": "Python Lab",
+      "opens": "09:00",
+      "closes": "10:00"
+    },
+    {
+      "name": "AI Lab",
+      "opens": "10:30",
+      "closes": "11:30"
+    },
+    {
+      "name": "Web Development Lab",
+      "opens": "14:00",
+      "closes": "15:00"
+    }
+  ]
+}
