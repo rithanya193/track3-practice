@@ -1,0 +1,14 @@
+
+name: Track 3 Practice
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  practice:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show practice message
+        run: echo "My GitHub Actions workflow works!"
